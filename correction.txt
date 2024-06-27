@@ -1,0 +1,58 @@
+Nom complet:Louis Mélançon
+Numéro de dossier (NI):536785569
+Lien vers le dépôt GitHub PRIVÉ de votre TP:https://github.com/truflon/itf1004-tp2
+Estimation du temps de réalisation: 10-12 heures
+
+
+Fonctionnalités
+---------------
+/2 : gestionnaire_donnees.sauvegarder_utilisateurs
+    Commentaires :
+
+/4 : gestionnaire_donnees.sauvegarder_propriete
+    Commentaires :
+
+/3 : gestionnaire_utilisateurs.recuperer_utilisateur_courant 
+    Commentaires :
+
+/1 : gestionnaire_utilisateurs.definir_utilisateur_courant
+    Commentaires :
+
+/1 : gestionnaire_utilisateurs.vider_session
+    Commentaires :
+
+/5 : gestionnaire_utilisateurs.creer_compte
+    Commentaires :
+
+/5 : gestionnaire_utilisateurs.se_connecter
+    Commentaires :
+
+/7 : gestionnaire_proprietes.ajouter_propriete
+    Commentaires :
+
+/5 : gestionnaire_proprietes.lister_proprietes
+    Commentaires :
+
+/12 : gestionnaire_proprietes.filtrer_proprietes
+    Commentaires :
+
+/3 : Qualité du code (noms de variables, lisibilité, etc).
+    Commentaires :
+
+-------
+
+/2: Lien du dépôt GitHub PRIVÉ présent et démontrant l'utilisation de Git
+    Commentaires: 
+
+
+Pénalités pour non-respect des consignes
+----------------------------------------
+
+
+
+Autres commentaires du correcteur
+---------------------------------
+
+
+
+Total: /50
